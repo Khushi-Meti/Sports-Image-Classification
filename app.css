@@ -1,0 +1,58 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 20px;
+	size= 50px;
+}
+
+.custom-circle-image {
+    width: 150px;
+    height: 150px;
+}
+
+.card-wrapper {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    color: #343a40;
+}
+
+#dropzone {
+    border: 2px dashed #28a745;
+    border-radius: 5px;
+    background: #e9ecef;
+    padding: 20px;
+}
+
+.dz-message {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.error {
+    color: red;
+    display: none;
+    margin-top: 20px;
+}
+
+#classTable {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+#classTable th,
+#classTable td {
+    border: 1px solid #dee2e6;
+    padding: 8px;
+    text-align: center;
+}
+
+#classTable th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+}
